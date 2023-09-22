@@ -11,6 +11,6 @@ if (m.isBaileys && m.fromMe)
         return !0
         let api = await fetch(`https://api.simsimi.net/v2/?text=${m.text}&lc=es`)
         let res = await api.json()
-        m.reply(res.success.replace('simsimi', 'Turbo').replace('Simsimi', 'Turbo').replace('sim simi', 'Turbo'))
+        m.reply(res.success.replace('simsimi', 'Droid').replace('Simsimi', 'Droid').replace('sim simi', 'Droid'))
     
 }

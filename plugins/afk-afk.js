@@ -5,7 +5,7 @@ let handler = async (m, { text, conn }) => {
     user.afk = + new Date
     user.afkReason = text
     m.reply(`
-╭•⋆҈͜͡.➣❂ᵗᵘʳᵇⁱᵗᵒ ᵇᵒᵗ❂◄⋆҈͜͡•╮
+╭•⋆҈͜͡.➣❂DROID-𝑐.ᵇᵒᵗ❂◄⋆҈͜͡•╮
 ╽☆☆☆ 🧑🏻‍💻 AFK ☆☆☆ 
 ┃Ahora estas afk hasta
 ┃que envies un mensaje 

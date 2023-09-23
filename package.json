@@ -20,15 +20,15 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "turbo-bot",
-        "turbo-bot-md",
+        "droid-bot",
+        "droid-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
     "homepage": "https://github.com/DROIDITO1/TONY-DROID1",
     "author": {
-        "name": "TURBO"
+        "name": "TONY"
     },
     "repository": {
         "type": "git",

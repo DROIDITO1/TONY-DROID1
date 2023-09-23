@@ -1,5 +1,5 @@
 { 
-    "name": "turbo-bot",
+    "name": "droid-bot",
     "version": "2.2.2",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/TURBO-NITRO/TURBO-BOT-V6",
+    "homepage": "https://github.com/DROIDITO1/TONY-DROID1",
     "author": {
         "name": "TURBO"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TURBO-NITRO/TURBO-BOT-V6.git"
+        "url": "git+https://github.com/DROIDITO1/TONY-DROID1.git"
     },
     "bugs": {
-        "url": "https://github.com/TURBO-NITRO/TURBO-BOT-V6/issues"
+        "url": "https://github.com/DROIDITO1/TONY-DROID1/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
